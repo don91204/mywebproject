@@ -1,0 +1,197 @@
+.contain{
+    background-image: url(402976.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    background-color:white;
+}
+.nav-keys{
+    padding-right: 150px;
+}
+.logo{
+    padding-left: 150px;
+    font-size: 30px;
+}
+.home-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 150px;
+    padding-top: 250px;
+    color: white;
+    padding-bottom: 50px;
+}
+.h-body{
+    font-size: 70px;
+    
+}
+.body-btn{
+    border-radius: 30px;
+}
+.p-body{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-color{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.527);
+}
+.container-course{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.course{
+    border:solid thin;
+    margin-left: 30px;
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: right;
+    padding: 50px 30px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
+.like{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.color-icon{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+.icon{
+    color: white;
+
+}
+.form{
+    padding-left: 150px;
+}
+table{
+    padding-left: 100px;
+}
+.container-form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0;
+}
+.signup-circle{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.fill-form{
+    margin-bottom: 10px;
+    border: none;
+    height: 30px;
+    width: 200px;
+}
+.signup-form{
+    color: white;
+    padding-left: 20px;
+}
+.img{
+    padding-left: 50px;
+}
+.form-btn{
+    margin-left: 50px;
+}
+.contact-form{
+    width: 500px;
+    margin-bottom: 10px;
+    height: 40px;
+}
+.contact{
+    padding-left: 150px;
+    padding-top:100px ;
+    padding-bottom:100px;
+}
+.contact-container{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.contact-btn{
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+}
+.p-contact{
+    color: white;
+    margin-bottom: 0%;
+}
+.contact-img{
+    width: 600px;
+}
+#fulname{
+    margin-top: 20px;
+}
+.footer-con{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+.footer-2{
+    padding-top: 50px;
+    margin-left: 150px;
+    color: white;
+}
+.p-footer{
+    color: rgba(255, 255, 255, 0.315);
+    font-size: 12px;
+    padding-top: 10px;
+}
+.footer-btn{
+    border-radius: 30px;
+    margin-top: 10px;
+}
+#footer-mail{
+    background-color: rgba(255, 255, 255, 0.096);
+    border: thin;
+    width: 350px;
+    color: white;
+}
+#fullname{
+    background-color: black;
+    color: white;
+}
+
+#contact-text{
+    width: 500px;
+}
